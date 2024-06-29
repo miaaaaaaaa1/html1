@@ -1,0 +1,33 @@
+.text{
+    padding: 120px;   
+    color: white;
+}
+
+.box{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box img{
+    width: 30px;
+    height: 30px;
+    padding: 80px;
+}
+.box img:hover{
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+}
+.company{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: white;
+}
+
+.hr{
+    color: white;
+}
+
+.back{
+    background-color: rgb(46, 46, 101);
+}

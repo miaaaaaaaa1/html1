@@ -1,0 +1,23 @@
+.h3{
+    text-align: center;
+}
+
+.product{
+    width: 110px;
+    height: 150px;
+    border: 1px solid black;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.conteiner{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.main-conteiner{
+text-align: center;
+
+}
+
